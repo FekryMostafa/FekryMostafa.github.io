@@ -9,5 +9,7 @@ p {
 }
 
 .bottom {
+    height: 600px;
+    padding-top: 150px;
     background-color: #760b5d;
 }
